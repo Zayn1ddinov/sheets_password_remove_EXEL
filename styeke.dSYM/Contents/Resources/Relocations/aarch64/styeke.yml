@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mac/Desktop/sheets_password_remove_EXEL/styeke'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _sumall, symObjAddr: 0x0, symBinAddr: 0x100003F1C, symSize: 0x64 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _sumall, symObjAddr: 0x0, symBinAddr: 0x100003F1C, symSize: 0x64 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x64, symBinAddr: 0x100003F80, symSize: 0x28 }
+...
